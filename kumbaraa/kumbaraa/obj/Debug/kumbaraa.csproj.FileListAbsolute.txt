@@ -1,0 +1,11 @@
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\bin\Debug\kumbaraa.exe.config
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\bin\Debug\kumbaraa.exe
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\bin\Debug\kumbaraa.pdb
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\obj\Debug\kumbaraa.csproj.AssemblyReference.cache
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\obj\Debug\kumbaraa.Form1.resources
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\obj\Debug\kumbaraa.Properties.Resources.resources
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\obj\Debug\kumbaraa.csproj.GenerateResource.cache
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\obj\Debug\kumbaraa.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\obj\Debug\kumbaraa.exe
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\obj\Debug\kumbaraa.pdb
+C:\Users\Muhammet\source\repos\kumbaraa\kumbaraa\obj\Debug\kumbaraa.Form2.resources
